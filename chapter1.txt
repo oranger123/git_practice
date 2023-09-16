@@ -1,0 +1,2 @@
+hello everyone nice to meet you all,
+I created my 1st git repoitory. I am going to commit it now. Bye
